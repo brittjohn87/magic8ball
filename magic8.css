@@ -1,0 +1,15 @@
+body{
+	background-color: black;
+}
+
+
+#text{
+	font-family: 'Princess Sofia', cursive;
+	text-align: center;
+	color: white;
+}
+
+#response{
+	font-family: 'Princess Sofia', cursive;
+	color: white;
+}
